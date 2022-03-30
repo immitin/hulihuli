@@ -1,11 +1,12 @@
       
 body {
-background: white;
-font-style: bold;
+background: ivory;
+      color: grey;
 }
 
-h1 {color: yellow; }
+h1 {font-size: 21px; }
 
 h2 {color: purple; }
 
-p {color: blue; }
+p {color: darkblue;
+background: lavender;}
