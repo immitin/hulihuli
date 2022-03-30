@@ -29,9 +29,10 @@ width: 50%; }
       color: darkblue;
  }
 
+p {font-size: px16; }
+
 ol {list-style-type: upper-alpha;}
 
-p {font-size: 16px; }
 
 #bestthings {font-size: 16px; 
       color: darkblue;
