@@ -29,7 +29,6 @@ ul {list-style-type: square;
 
 .pic{
   background: url(.../images/jinkujanku.jpg) no-repeat;
-      background-size: cover;
   border: dotted 2px;
       width: 200px;
       height: 200px;
