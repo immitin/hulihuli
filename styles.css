@@ -8,8 +8,8 @@ background: ivory;
 div {
       color: grey;
       background: purple;
-      border: dotted;
-      width: 2px;
+      border: dotted 2px;
+      width: 200px;
       height: 200px;
       margin: 10px;
       font-size: 10px;
