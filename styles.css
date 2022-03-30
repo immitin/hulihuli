@@ -7,6 +7,9 @@ background: ivory;
 div {
       color: grey;
       background: purple;
+      border: dotted;
+      width: 2px;
+      height: 200px;
       margin: 10px;
       font-size: 10px;
 }
