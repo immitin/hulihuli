@@ -25,14 +25,16 @@ color: purple;
 margin: auto;
 width: 100%; }
 
-#mainline {color: darkblue;
-font-size: 16px; }
+#mainline {font-size: 16px;
+      color: darkblue;
+ }
 
 ol {list-style-type: upper-alpha;}
 
-#bestthings {color: darkblue;
-background: lavender;
-fontsize: 16px; }
+#bestthings {fontsize: 16px; 
+      color: darkblue;
+      background: lavender;
+ }
 
 ul {list-style-type: square; }
 
