@@ -31,7 +31,8 @@ width: 50%; }
 
 p {font-size: px16; }
 
-ol {list-style-type: upper-alpha;}
+ol {list-style-type: upper-alpha;
+      font-size: 14px }
 
 
 #bestthings {font-size: 16px; 
@@ -39,7 +40,8 @@ ol {list-style-type: upper-alpha;}
       background: lavender;
  }
 
-ul {list-style-type: square; }
+ul {list-style-type: square;
+      font-size: 14px}
 
 
 
