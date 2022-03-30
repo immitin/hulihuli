@@ -5,16 +5,6 @@ background: ivory;
       font-size: 16px;
 }
 
-// div {
-      color: grey;
-      background: purple;
-      border: dotted 2px;
-      width: 200px;
-      height: 200px;
-      margin: 10px;
-      font-size: 10px;
-}
-
 h1 {font-size: 20px;
 margin: auto;
 width: 50%; 
@@ -25,18 +15,12 @@ color: purple;
 margin: auto;
 width: 50%; }
 
-// #mainline {font-size: 16px;
-      color: darkblue;
- }
-
-// p.teksti  {font-size: px16; }
 
 ol {list-style-type: upper-alpha;
       font-size: 14px; }
 
 
-// #bestthings {font-size: 16px; 
-      color: darkblue;
+p {color: darkblue;
       background: lavender;
  }
 
