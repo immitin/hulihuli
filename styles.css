@@ -5,15 +5,15 @@ background: ivory;
 }
 
 div {
-      color: black;
-      background: white;
+      color: grey;
+      background: purple;
       margin: 10px;
-      font-size: 30px;
+      font-size: 10px;
 }
 
 h1 {font-size: 21px;
 margin: auto;
-width: 50%; 
+width: 40%; 
 }
 
 h2 {color: purple;
