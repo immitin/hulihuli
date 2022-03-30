@@ -31,7 +31,9 @@ width: 50%; }
 
 ol {list-style-type: upper-alpha;}
 
-#bestthings {fontsize: 16px; 
+p {font-size: 16px; }
+
+#bestthings {font-size: 16px; 
       color: darkblue;
       background: lavender;
  }
