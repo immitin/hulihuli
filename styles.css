@@ -29,5 +29,10 @@ ul {list-style-type: square;
 
 .pic{
   background: url(jinkujanku.jpg) no-repeat;
-  background-size: cover;
+  border: dotted 2px;
+      width: 200px;
+      height: 200px;
 }
+
+
+//Set div-element border to dotted and 2 pixels wide, set element width and height to 200 pixels. Use class selector (e.g. profile-img)
