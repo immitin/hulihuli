@@ -5,7 +5,7 @@ background: ivory;
       font-size: 30px;
 }
 
-div {
+.img div {
       color: grey;
       background: purple;
       border: dotted 2px;
