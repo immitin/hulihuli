@@ -17,13 +17,13 @@ div {
 
 h1 {font-size: 20px;
 margin: auto;
-width: 40%; 
+width: 50%; 
 }
 
 h2 {font-size: 18px;
 color: purple;
 margin: auto;
-width: 50%; }
+width: 40%; }
 
 #mainline {color: darkblue;
 font-size: 16px; }
