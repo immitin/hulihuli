@@ -28,7 +28,7 @@ ul {list-style-type: square;
       font-size: 14px; }
 
 .pic{
-  background: url(jinkujanku.jpg) no-repeat;
+  background: url(.../images/jinkujanku.jpg) no-repeat;
   border: dotted 2px;
       width: 200px;
       height: 200px;
