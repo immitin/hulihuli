@@ -10,5 +10,9 @@ h2 {color: purple; }
 
 #mainline {color: darkblue;}
 
+ol {list-style-type: square}
+
 #bestthings {color: darkblue;
 background: lavender; }
+
+ul {list-style-type: higher-alpha; }
