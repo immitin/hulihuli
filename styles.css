@@ -15,7 +15,7 @@ div {
       font-size: 10px;
 }
 
-h1 {font-size: 21px;
+h1 {font-size: 20px;
 margin: auto;
 width: 40%; 
 }
@@ -24,12 +24,14 @@ h2 {color: purple;
 margin: auto;
 width: 50%; }
 
-#mainline {color: darkblue;}
+#mainline {color: darkblue;
+font-size: 16px; }
 
 ol {list-style-type: upper-alpha;}
 
 #bestthings {color: darkblue;
-background: lavender; }
+background: lavender;
+fontsize: 16px; }
 
 ul {list-style-type: square; }
 
