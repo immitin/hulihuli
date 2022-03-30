@@ -16,7 +16,9 @@ margin: auto;
 width: 50%; 
 }
 
-h2 {color: purple; }
+h2 {color: purple;
+margin: auto;
+width: 50%; }
 
 #mainline {color: darkblue;}
 
