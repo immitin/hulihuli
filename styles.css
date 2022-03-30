@@ -4,7 +4,10 @@ background: ivory;
       color: grey;
 }
 
-h1 {font-size: 21px; }
+h1 {font-size: 21px;
+margin: auto;
+width: 50%; 
+}
 
 h2 {color: purple; }
 
