@@ -4,6 +4,13 @@ background: ivory;
       color: grey;
 }
 
+div {
+      color: black;
+      background: white;
+      margin: 10px;
+      font-size: 30px;
+}
+
 h1 {font-size: 21px;
 margin: auto;
 width: 50%; 
@@ -19,3 +26,7 @@ ol {list-style-type: upper-alpha;}
 background: lavender; }
 
 ul {list-style-type: square; }
+
+<div> plösöt istu puussa </div>
+<div> hiirenaivot suussa </div>
+
