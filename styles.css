@@ -2,7 +2,6 @@
 body {
 background: ivory;
       color: grey;
-      font-size: 16px;
 }
 
 h1 {font-size: 20px;
@@ -22,10 +21,15 @@ ol {list-style-type: upper-alpha;
 
 p {color: darkblue;
       background: lavender;
+      font-size: 16px;
  }
 
 ul {list-style-type: square;
       font-size: 14px; }
 
+div {border: dotted 2px;
+      width: 200px;
+      height: 200px;
+}
 
 
