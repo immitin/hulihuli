@@ -25,11 +25,15 @@ p {color: darkblue;
  }
 
 .pic{
-  background: url(.../images/jinkujanku.jpg) no-repeat;
+ background-image: url("/jinkujanku.jpg");
   border: dotted 2px;
-      width: 200px;
-      height: 200px;
+  width: 200px;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
 }
+
 
 ul {list-style-type: square;
       font-size: 14px; }
