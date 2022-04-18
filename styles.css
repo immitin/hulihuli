@@ -66,8 +66,9 @@ background-image: url("korppijakarjalainen.jpg");
 }
 
 #back {border: 2px solid #56099F;
-      padding: 5px;
+      padding: 5px 5px 5px 5px;
       border-radius: 15px;
+      text-align: middle; 
 }
 
 
