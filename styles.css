@@ -42,8 +42,8 @@ ul {list-style-type: square;
       font-size: 12px;
 }
 
-#more {border: 2px solid #56099F;
-      padding: 5px;
+#more {border: 2px dashed #DF01A5;
+      padding: 2px;
       border-radius: 15px;
 }
       
