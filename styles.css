@@ -50,6 +50,10 @@ background-image: url("korppijakarjalainen.jpg");
       background-repeat: no-repeat; 
       }
 
+#figure {font-size: 10px;
+      font-style: italic;
+}
+
 #id {color: darkblue;
       background: #BA70FF;
       font-size: 16px;
