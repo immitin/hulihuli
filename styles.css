@@ -16,7 +16,9 @@ border: 2px dashed #DF01A5;
 h2 {font-size: 18px;
 color: purple;
 margin: auto;
-width: 50%; }
+width: 50%;
+text-align: center;
+}
 
 
 ol {list-style-type: upper-alpha;
