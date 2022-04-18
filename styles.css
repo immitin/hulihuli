@@ -69,6 +69,7 @@ background-image: url("korppijakarjalainen.jpg");
       padding: 5px 5px 5px 5px;
       border-radius: 15px;
       text-align: center; 
+      margin: left;
 }
 
 
