@@ -7,6 +7,7 @@ background: ivory;
 h1 {font-size: 20px;
 margin: auto;
 width: 50%; 
+border: 2px solid FF0000;
 }
 
 h2 {font-size: 18px;
@@ -62,7 +63,7 @@ background-image: url("korppijakarjalainen.jpg");
       font-size: 16px;
 }
 
-#back {border: 2px solid #ff0000;
+#back {border: 2px solid #FF0000;
       padding: 5px;
       border-radius: 15px;
 }
