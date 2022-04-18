@@ -42,7 +42,7 @@ ul {list-style-type: square;
       font-size: 12px;
       
 .img{
-      url("korppijakarjalainen.jpg");
+background-image: url("korppijakarjalainen.jpg");
       }
 }
 
