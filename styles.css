@@ -41,6 +41,9 @@ ul {list-style-type: square;
 #end {font-style: italic;
       font-size: 12px;
 }
+
+#more {border: 2px solid RBG (0,255,0);
+}
       
 .korppi{
 background-image: url("korppijakarjalainen.jpg");
