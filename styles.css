@@ -44,7 +44,8 @@ ul {list-style-type: square;
       
 .pic2{
 background-image: url("korppijakarjalainen.jpg");
-      width: 400px;
+      height: 400px;
+      width: 200px;
       }
 
 
