@@ -52,7 +52,6 @@ ul {list-style-type: square;
       padding: 5px 5px 5px 5px;
       border-radius: 15px;
       text-align: center; 
-      margin: center;
       width: 50%;
 }
 
@@ -83,8 +82,7 @@ background-image: url("korppijakarjalainen.jpg");
 #back {border: 2px solid #56099F;
       padding: 5px 5px 5px 5px;
       border-radius: 15px;
-      text-align: center; 
-      margin: center;
+      text-align: center;
       width: 50%;
 }
 
