@@ -42,13 +42,6 @@ ul {list-style-type: square;
       font-size: 12px;
 }
 
-nav {border: 2px solid #56099F;
-      padding: 5px 5px 5px 5px;
-      border-radius: 15px;
-      text-align: center; 
-      width: 50%;
-}
-
       
 .korppi{
 background-image: url("korppijakarjalainen.jpg");
