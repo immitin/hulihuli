@@ -11,6 +11,8 @@ border: 2px dashed #DF01A5;
       padding: 5px 5px 5px 5px;
       border-radius: 15px;
       text-align: center;
+      background; #F0F8FF;
+
 }
 
 
@@ -25,6 +27,7 @@ p {color: darkblue;
  }
 
 aside {float: right;
+      background: #87CEEB;
 }
 
 .pic{
@@ -69,6 +72,10 @@ background-image: url("korppijakarjalainen.jpg");
       text-align: center;
       width: 50%;
 }
+
+footer {background: #AFEEEE;
+}
+
 
 #contact {font-size: 10px;
 }
