@@ -102,6 +102,7 @@ background-image: url("korppijakarjalainen.jpg");
 }
 
 footer {background: #FFF0F5;
+      float: left; 
 }
 
 
