@@ -29,7 +29,27 @@ aside {float: right;
       background: ivory;
 }
 
-.file1 {float: right;
+#file1 {float: right;
+      background: black;
+}
+
+#file2 {float: right;
+      background: black;
+}
+
+#file3 {float: right;
+      background: black;
+}
+
+#file4 {float: right;
+      background: black;
+}
+
+#file5 {float: right;
+      background: black;
+}
+
+#file6 {float: right;
       background: black;
 }
 
