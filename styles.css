@@ -29,6 +29,9 @@ aside {float: right;
       background: ivory;
 }
 
+#file {float: right; 
+}
+
 .pic{
  background-image: url("jinkujanku.jpg");
   border: dotted 2px;
