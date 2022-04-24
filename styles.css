@@ -24,6 +24,9 @@ p {color: darkblue;
       font-size: 16px;
  }
 
+aside {float: right;
+}
+
 .pic{
  background-image: url("jinkujanku.jpg");
   border: dotted 2px;
