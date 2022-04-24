@@ -6,6 +6,9 @@ background: ivory;
       color: grey;
 }
 
+#left {background: lavender;
+}
+
 header {font-size: 20px;
 margin: auto;
 width: 50%; 
