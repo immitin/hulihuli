@@ -86,10 +86,12 @@ background-image: url("korppijakarjalainen.jpg");
 
 #rivi {font-size: 12px;
       font-style: italic;
+      margin-left: 50%;
 }
 
 #korppikarja {font-size: 12px;
       font-style: italic;
+      margin-left: 50%;
 }
 
 .license {color: darkblue;
