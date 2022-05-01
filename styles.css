@@ -91,7 +91,7 @@ background-image: url("korppijakarjalainen.jpg");
       font-style: italic;
 }
 
-#license {color: darkblue;
+.license {color: darkblue;
       background: ivory;
       font-size: 16px;
 }
