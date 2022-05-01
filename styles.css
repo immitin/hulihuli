@@ -18,7 +18,8 @@ border: 2px dashed #DF01A5;
       background: #FFFFFA;
 }
 
-.margin {margin-left: 10px;
+.margin {padding-left: 10px;
+      padding-right: 10px;
 }
 
 .pic{
