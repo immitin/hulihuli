@@ -83,7 +83,8 @@ background-image: url("korppijakarjalainen.jpg");
       background-repeat: no-repeat; 
       }
 
-#rivi{ background-position: center;
+#rivi {font-size: 12px;
+      font-style: italic;
 }
 
 #korppikarja {font-size: 12px;
