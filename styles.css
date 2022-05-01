@@ -113,6 +113,7 @@ footer {background: #FFF0F5;
       position: fixed;
       left: 0;
       bottom: 0;
+      position: absolute;
       width: 100%;
       text-align: center;
 }
