@@ -26,7 +26,7 @@ border: 2px dashed #DF01A5;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;  
-  margin-left: 30%;
+  margin-left: 10%;
 }
 
 
@@ -86,12 +86,12 @@ background-image: url("korppijakarjalainen.jpg");
 
 #rivi {font-size: 12px;
       font-style: italic;
-      margin-left: 50%;
+      margin-left: 10%;
 }
 
 #korppikarja {font-size: 12px;
       font-style: italic;
-      margin-left: 50%;
+      margin-left: 10%;
 }
 
 .license {color: darkblue;
