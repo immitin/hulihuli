@@ -17,6 +17,9 @@ border: 2px dashed #DF01A5;
       background: ivory;
 }
 
+#margin {margin-left: 5%;
+}
+
 .pic{
  background-image: url("jinkujanku.jpg");
   border: dotted 2px;
