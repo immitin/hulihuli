@@ -17,6 +17,15 @@ border: 2px dashed #DF01A5;
       background: ivory;
 }
 
+.pic{
+ background-image: url("jinkujanku.jpg");
+  border: dotted 2px;
+  width: 200px;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
 
 
 ol {list-style-type: upper-alpha;
@@ -55,16 +64,6 @@ p {color: darkblue;
 #file6 {float: right;
       accent-color: #DF01A5;
     }
-
-.pic{
- background-image: url("jinkujanku.jpg");
-  border: dotted 2px;
-  width: 200px;
-  height: 200px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;  
-}
 
 
 ul {list-style-type: square;
