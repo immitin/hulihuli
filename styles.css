@@ -130,6 +130,9 @@ footer {background: #FFF0F5;
       clear: both;
 }
 
+nav ul { list-style-type: none; } 
+nav a { text-decoration: none; } 
+
 #takeme {font-size: 14px;
 }
 
