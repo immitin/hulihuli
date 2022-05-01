@@ -104,6 +104,12 @@ background-image: url("korppijakarjalainen.jpg");
       margin-left: 10%;
 }
 
+#siniset {font-size: 12px;
+      font-style: italic;
+      margin-left: 10%;
+}
+
+
 .license {color: darkblue;
       background: ivory;
       font-size: 16px;
