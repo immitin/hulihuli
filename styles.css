@@ -20,6 +20,7 @@ border: 2px dashed #DF01A5;
 .pic{
  background-image: url("jinkujanku.jpg");
   border: dotted 2px;
+  border-radius: 50%;
   width: 200px;
   height: 200px;
   background-position: center;
