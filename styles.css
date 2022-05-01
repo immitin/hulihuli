@@ -112,10 +112,11 @@ footer {background: #FFF0F5;
       bottom: 0;
       width: 100%;
       text-align: center;
+      font-size: 12px;
 }
 
 
-#contact {font-size: 16px;
+#contact {font-size: 10px;
 }
 
 
